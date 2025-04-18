@@ -41,7 +41,7 @@ TIMEZONE="Europe/Moscow"   # Часовой пояс
 1. Клонируйте репозиторий или скачайте скрипт:
 
 ```bash
-git clone https://github.com/ваш-репозиторий/proxmox-debian-docker-template.git
+git clone https://github.com/lukomsky85/proxmox-debian-docker-template.git
 cd proxmox-debian-docker-template
 ```
 
